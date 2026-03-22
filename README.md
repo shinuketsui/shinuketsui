@@ -3,4 +3,4 @@ Building tools at the intersection of sound and code.
 
 Python · AWS · FMOD · Godot · Git
 
-Music: shinuketsui.komi.io
+Music: [shinuketsui.komi.io](https://shinuketsui.komi.io)
